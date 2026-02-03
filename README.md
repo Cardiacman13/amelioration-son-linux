@@ -32,13 +32,7 @@ Si on te demande choisi **jalv** et **qtractor** en dépendances.
 
 ## 2) Configuration de base (EasyEffects)
 
-1. Lance **EasyEffects**
-2. Va dans l’onglet **Sortie (Output)**
-3. Va dans **Effets (Effects)** pour gérer ta chaîne
-
-<img width="2089" height="1225" alt="image" src="https://github.com/user-attachments/assets/a2620531-279e-4077-a340-ef044f89e5f0" />
-
-Pense à mettre en démarrage auto ! 
+### Lance **EasyEffects** et mets en démarrage auto :
 
 <img width="986" height="645" alt="image" src="https://github.com/user-attachments/assets/81df96d1-7b6b-49a6-9078-6f1acaaff935" />
 
