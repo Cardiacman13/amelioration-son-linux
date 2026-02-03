@@ -1,6 +1,10 @@
 
 # Certains d’entre vous l’ont remarqué : c’est particulièrement flagrant sur les PC portables, **le son sous Linux est souvent plus faible et plus plat** que sous Windows.
 
+Vidéo de démonstration : [Vanilla Linux sound vs Preset by digitalone1](https://youtu.be/otikXMm0ftQ)
+Je précise sur la vidéo on entend déjà bien la différence mais appliqué en dur le son est encore largement meilleur.
+
+
 Tout d'abord merci à CachyOS de m'avoir mis sur la piste : [CachyOS Améliorations audio et logicielles](https://wiki.cachyos.org/fr/configuration/general_system_tweaks/#am%C3%A9liorations-audio-et-logicielles)
 
 ### Pourquoi ?
