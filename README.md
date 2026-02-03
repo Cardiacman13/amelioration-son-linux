@@ -21,16 +21,10 @@ Sous Linux, le son sort “brut” de pipewire → donc il sort moins fort et mo
 ### Paquets requis
 
 ```bash
-sudo pacman -Syu
-sudo pacman -S easyeffects
+sudo pacman -S easyeffects lsp-plugins-lv2 zam-plugins calf mda.lv2
 ```
 
-### Plugins recommandés (indispensables pour EQ/compresseur/loudness, etc.)
-
-```bash
-sudo pacman -S lsp-plugins-lv2 zam-plugins-lv2 calf mda.lv2
-```
-Si on te demande choisi jalv et qtractor en dépendances.
+Si on te demande choisi **jalv** et **qtractor** en dépendances.
 
 > Remarque : `lsp-plugins-lv2` est le plus important (EQ/compresseur/loudness de très bonne qualité).
 
