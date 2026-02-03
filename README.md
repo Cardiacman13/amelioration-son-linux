@@ -30,7 +30,7 @@ sudo pacman -S easyeffects
 ```bash
 sudo pacman -S lsp-plugins-lv2 zam-plugins-lv2 calf mda.lv2
 ```
-On choisi jalv et qtractor en dépendances.
+Si on te demande choisi jalv et qtractor en dépendances.
 
 > Remarque : `lsp-plugins-lv2` est le plus important (EQ/compresseur/loudness de très bonne qualité).
 
@@ -74,7 +74,6 @@ cd ~/Téléchargements
 git clone https://github.com/Digitalone1/EasyEffects-Presets.git
 mkdir -p ~/.local/share/easyeffects/output
 cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.local/share/easyeffects/output/
-cp -v EasyEffects-Presets/LoudnessCrystalEqualizer.json ~/.local/share/easyeffects/output/
 ```
 
 Flatpak :
@@ -84,7 +83,6 @@ cd ~/Téléchargements
 git clone https://github.com/Digitalone1/EasyEffects-Presets.git
 mkdir -p ~/.local/share/easyeffects/output
 cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.var/app/com.github.wwmm.easyeffects/output/
-cp -v EasyEffects-Presets/LoudnessCrystalEqualizer.json ~/.var/app/com.github.wwmm.easyeffects/output/
 ```
 
 Et les presets devraient apparaitre dans local donc pas dans communauté.
