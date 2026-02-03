@@ -68,6 +68,7 @@ Attention à bien être sur sortie et à actualiser après l'installation de eas
 
 Pour les autres distros : 
 
+Paquet natif :
 ```bash
 cd ~/Téléchargements
 git clone https://github.com/Digitalone1/EasyEffects-Presets.git
@@ -76,13 +77,23 @@ cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.local/share/easyeffects/outp
 cp -v EasyEffects-Presets/LoudnessCrystalEqualizer.json ~/.local/share/easyeffects/output/
 ```
 
+Flatpakk :
+
+```bash
+cd ~/Téléchargements
+git clone https://github.com/Digitalone1/EasyEffects-Presets.git
+mkdir -p ~/.local/share/easyeffects/output
+cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.var/app/com.github.wwmm.easyeffects/output/
+cp -v EasyEffects-Presets/LoudnessCrystalEqualizer.json ~/.var/app/com.github.wwmm.easyeffects/output/
+```
+
 Et les presets devraient apparaitre dans local.
 
 ### 3.1 Importer un preset local
 
-* Télécharge un preset (ex : Digitalone1, ou autre)
+* Télécharge un preset (ex : Digitalone1, ou autre) par exemple [ici](https://github.com/wwmm/easyeffects/wiki/Community-presets)
 * Dans EasyEffects : **Préréglages → Importer un préréglage depuis le stockage local**
-* Une fois importé : **Load**
+* Cherche le preset .json ou autres
 
 ### Emplacement des presets
 
