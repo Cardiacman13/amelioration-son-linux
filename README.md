@@ -1,4 +1,3 @@
-https://github.com/Cardiacman13/amelioration-son-linux/blob/main/README.md
 # Certains d’entre vous l’ont remarqué : c’est particulièrement flagrant sur les PC portables, **le son sous Linux est souvent plus faible et plus plat** que sous Windows.
 
 Vidéo de démonstration : [Vanilla Linux sound vs Preset by digitalone1](https://youtu.be/otikXMm0ftQ)
