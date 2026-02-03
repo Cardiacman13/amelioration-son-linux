@@ -105,7 +105,7 @@ Par exemple : `haut-parleurs`
 
 ### Chaîne d’effets recommandée (ordre très important)
 
-Pour haut-parleurs de laptop, une base fiable :
+Pour haut-parleurs de pc portable, une base fiable :
 
 1. **Égaliseur** (EQ)
 2. **Compresseur** (ou Loudness/Maximizer selon ton goût)
@@ -123,7 +123,7 @@ Pour haut-parleurs de laptop, une base fiable :
 ## 5) Profil “Casques” 
 
 Crée un second preset :
-✅ Nom conseillé : `Headphones`
+✅ Nom conseillé : `casque`
 
 Comme le conseille digital1 on ajoute flux croisé à la fin pour les casques. Le crossfeed fait passer un petit peu de gauche vers droite (et inversement), avec un filtrage/délai, pour imiter l’écoute sur enceintes (où chaque oreille entend les deux enceintes). Ça rend le son plus naturel.
 
@@ -146,7 +146,7 @@ Ajustement :
 
 ---
 
-## 6) Bonus : Convolver (effet “Dolby Atmos laptop” / amélioration des HP)
+## 6) Bonus : Convolver (effet “Dolby Atmos laptop” / amélioration des haut-parleurs )
 
 Le **Convolver** peut transformer les haut-parleurs si tu as une **impulse response (IR) adaptée**.
 
@@ -193,22 +193,22 @@ Réglage conseillé :
 
 ---
 
-## 8) Auto-chargement des presets (Speakers vs Headphones)
+## 8) Auto-chargement des presets (Casque / haut-parleurs )
 
 Associer un preset par périphérique.
 
 Dans EasyEffects :
 
-* Onglet **PipeWire → Presets Autoloading** (ou “Chargement automatique” selon version)
-
-<img width="2089" height="1229" alt="image" src="https://github.com/user-attachments/assets/8bc6680e-515a-493e-838b-ede6dbe073a7" />
+* Onglet préréglages / Chargement automatique
+* 
+<img width="2101" height="1227" alt="image" src="https://github.com/user-attachments/assets/1e52f3e4-d09f-4c9e-bc91-96e21ee31310" />
 
 
 ### Exemple
 
-* “Built-in Speakers / Haut-parleurs internes” → `Laptop-Speakers`
-* “Bose QC Ultra Headphones” → `Headphones-Universal`
-* (Optionnel) casque filaire → `Headphones-Universal`
+* “Built-in Speakers / Haut-parleurs internes” → `haut-parleurs`
+* “Bose QC Ultra Headphones” → `casque`
+* (Optionnel) casque filaire → `casque`
 
 ---
 
