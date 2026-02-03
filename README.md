@@ -10,13 +10,13 @@ Tout d'abord merci à CachyOS de m'avoir mis sur la piste : [CachyOS Améliorati
 ### Pourquoi ?
 
 Sous Windows, les constructeurs (Realtek + Dell/Alienware, Dolby/Waves/MaxxAudio, etc.) appliquent une chaîne DSP (EQ, loudness, compression, spatialisation).
-Sous Linux, le son sort “brut” de pipewire → donc il sort moins fort et et moins punchy. Certains casques et enceintes s'en sortent bien mais la plupart du matériel et surtout les petites enceintes de nos pc portables ont besoin de ça pour sortir un son correct.
+Sous Linux, le son sort “brut” de pipewire → donc il sort moins fort et moins punchy. Certains casques et enceintes s'en sortent bien mais la plupart du matériel et surtout les petites enceintes de nos pc portables ont besoin de ça pour sortir un son correct.
 
 👉 La solution propre : **PipeWire + EasyEffects** avec une chaîne d’effets bien placée, et des profils automatiques.
 
 ---
 
-## 1) Installation (Arch / CachyOS / KDE)
+## 1) Installation pour Arch Linux, je ne traite pas le reste je n'utilise que des bases Arch désolé.
 
 ### Paquets requis
 
