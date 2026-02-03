@@ -61,7 +61,22 @@ Sur Arch facile il est sur le AUR on peut l'installer avec yay ou paru.
 paru -S easyeffects-digitalone1-presets-git
 ```
 
-Pour les autres il faudra copier les bons fichiers au bon endroit.
+Attention à bien être sur sortie et à actualiser après l'installation de easyeffects-digitalone1-presets-git les presets devraient apparaître.
+
+<img width="2101" height="1227" alt="image" src="https://github.com/user-attachments/assets/29a646a3-7530-4d93-80b0-781b082cea77" />
+
+
+Pour les autres distros : 
+
+```bash
+cd ~/Téléchargements
+git clone https://github.com/Digitalone1/EasyEffects-Presets.git
+mkdir -p ~/.local/share/easyeffects/output
+cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.local/share/easyeffects/output/
+cp -v EasyEffects-Presets/LoudnessCrystalEqualizer.json ~/.local/share/easyeffects/output/
+```
+
+Et les presets devraient apparaitre dans local.
 
 ### 3.1 Importer un preset local
 
