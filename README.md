@@ -192,12 +192,11 @@ Réglage conseillé :
 
 ---
 
-## 7) Conseils d’ajustement (pro)
+## 7) Conseils d’ajustement
 
-* Ajuste **petit à petit** (±2–4 dB sur EQ)
-* Compare souvent : **toggle EasyEffects ON/OFF**
+* Ajuste **petit à petit**
+* Compare souvent : **Effects ON/OFF**
 * Si tu entends de la distorsion :
-
   * baisse le gain (ou l’EQ bass)
   * assure-toi que **Limiteur est le dernier**
 * Active l’auto-démarrage dans EasyEffects
@@ -214,12 +213,10 @@ Dans EasyEffects :
 * 
 <img width="2101" height="1227" alt="image" src="https://github.com/user-attachments/assets/1e52f3e4-d09f-4c9e-bc91-96e21ee31310" />
 
-
 ### Exemple
 
 * “Built-in Speakers / Haut-parleurs internes” → `haut-parleurs`
 * “Bose QC Ultra Headphones” → `casque`
-* (Optionnel) casque filaire → `casque`
 
 ---
 
