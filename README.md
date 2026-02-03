@@ -1,7 +1,7 @@
 
 # Certains d’entre vous l’ont remarqué : c’est particulièrement flagrant sur les PC portables, **le son sous Linux est souvent plus faible et plus plat** que sous Windows.
 
-Tout d'abord merci à CachyOS de m'avoir mis sur la piste : https://wiki.cachyos.org/fr/configuration/general_system_tweaks/#am%C3%A9liorations-audio-et-logicielles
+Tout d'abord merci à CachyOS de m'avoir mis sur la piste : [CachyOS Améliorations audio et logicielles](https://wiki.cachyos.org/fr/configuration/general_system_tweaks/#am%C3%A9liorations-audio-et-logicielles)
 
 ### Pourquoi ?
 
