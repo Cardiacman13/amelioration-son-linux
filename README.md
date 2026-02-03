@@ -3,7 +3,7 @@
 Vidéo de démonstration : [Vanilla Linux sound vs Preset by digitalone1](https://youtu.be/otikXMm0ftQ)
 Je précise sur la vidéo on entend déjà bien la différence mais appliqué en dur le son est encore largement meilleur.
 
-Vidéo ou je fais rapidement ce tuto : [Installation Et Setup De EasyEffect](https://youtu.be/eCN7mJDihAg))
+Vidéo ou je fais rapidement ce tuto : [Installation Et Setup De EasyEffect](https://youtu.be/eCN7mJDihAg)
 
 Tout d'abord merci à CachyOS de m'avoir mis sur la piste : [CachyOS Améliorations audio et logicielles](https://wiki.cachyos.org/fr/configuration/general_system_tweaks/#am%C3%A9liorations-audio-et-logicielles)
 
