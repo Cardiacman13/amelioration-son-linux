@@ -55,14 +55,13 @@ Le plus simple : partir d’un preset existant puis ajuster.
 
 Celui de Digital1 est assez passe-partout : https://github.com/Digitalone1/EasyEffects-Presets
 
-```bash
-cd ~/Téléchargements
-git clone https://github.com/Digitalone1/EasyEffects-Presets.git
+Sur Arch facile il est sur le AUR on peut l'installer avec yay ou paru.
 
-mkdir -p ~/.local/share/easyeffects/output
-cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.local/share/easyeffects/output/
-cp -v EasyEffects-Presets/LoudnessCrystalEqualizer.json ~/.local/share/easyeffects/output/
+```bash
+paru -S easyeffects-digitalone1-presets-git
 ```
+
+Pour les autres il faudra copier les bons fichiers au bon endroit.
 
 ### 3.1 Importer un preset local
 
