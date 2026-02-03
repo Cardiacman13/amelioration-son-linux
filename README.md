@@ -1,4 +1,4 @@
-
+https://github.com/Cardiacman13/amelioration-son-linux/blob/main/README.md
 # Certains d’entre vous l’ont remarqué : c’est particulièrement flagrant sur les PC portables, **le son sous Linux est souvent plus faible et plus plat** que sous Windows.
 
 Vidéo de démonstration : [Vanilla Linux sound vs Preset by digitalone1](https://youtu.be/otikXMm0ftQ)
@@ -198,8 +198,8 @@ Associer un preset par périphérique.
 Dans EasyEffects :
 
 * Onglet préréglages / Chargement automatique
-* 
-<img width="2101" height="1227" alt="image" src="https://github.com/user-attachments/assets/1e52f3e4-d09f-4c9e-bc91-96e21ee31310" />
+
+<img width="676" height="860" alt="image" src="https://github.com/user-attachments/assets/bf6e0305-2fea-4388-927b-beca50075bb4" />
 
 ### Exemple
 
