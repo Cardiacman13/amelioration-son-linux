@@ -73,6 +73,7 @@ Et les presets devraient apparaitre dans local vous pouvez le renomer Haut-Parle
 ### 3.1 Importer un preset local
 
 * Télécharge un preset (ex : Digitalone1, ou autre) par exemple [ici](https://github.com/wwmm/easyeffects/wiki/Community-presets)
+* Tu peux peut être en trouver un spécifique pour ton pc ici : [wiki de la communauté Easy Effect](https://github.com/wwmm/easyeffects/wiki/Community-presets)
 * Dans EasyEffects : **Préréglages → Importer un préréglage depuis le stockage local**
 * Cherche le preset .json ou autres
 
