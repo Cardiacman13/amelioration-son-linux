@@ -4,6 +4,7 @@
 Vidéo de démonstration : [Vanilla Linux sound vs Preset by digitalone1](https://youtu.be/otikXMm0ftQ)
 Je précise sur la vidéo on entend déjà bien la différence mais appliqué en dur le son est encore largement meilleur.
 
+Vidéo ou je fais rapidement ce tuto : [Installation Et Setup De EasyEffect](https://youtu.be/eCN7mJDihAg))
 
 Tout d'abord merci à CachyOS de m'avoir mis sur la piste : [CachyOS Améliorations audio et logicielles](https://wiki.cachyos.org/fr/configuration/general_system_tweaks/#am%C3%A9liorations-audio-et-logicielles)
 
@@ -38,8 +39,13 @@ Si on te demande choisi **jalv** et **qtractor** en dépendances.
 
 <img width="2089" height="1225" alt="image" src="https://github.com/user-attachments/assets/a2620531-279e-4077-a340-ef044f89e5f0" />
 
+Pense à mettre en démarrage auto ! 
 
-✅ Objectif : créer un preset “Speakers” et un preset “Headphones”, avec auto-chargement.
+<img width="986" height="645" alt="image" src="https://github.com/user-attachments/assets/81df96d1-7b6b-49a6-9078-6f1acaaff935" />
+
+<img width="986" height="645" alt="image" src="https://github.com/user-attachments/assets/53c6333f-3887-4a5f-b216-f9a3edfe8414" />
+
+<img width="1118" height="716" alt="image" src="https://github.com/user-attachments/assets/f3601904-8c38-4d21-8a59-4f8b0f25430d" />
 
 ---
 
