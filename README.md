@@ -55,13 +55,22 @@ Le plus simple : partir d’un preset existant puis ajuster.
 
 Celui de Digital1 est assez passe-partout : https://github.com/Digitalone1/EasyEffects-Presets
 
-### 3.1 Importer un preset local (recommandé)
+```bash
+cd ~/Téléchargements
+git clone https://github.com/Digitalone1/EasyEffects-Presets.git
+
+mkdir -p ~/.local/share/easyeffects/output
+cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.local/share/easyeffects/output/
+cp -v EasyEffects-Presets/LoudnessCrystalEqualizer.json ~/.local/share/easyeffects/output/
+```
+
+### 3.1 Importer un preset local
 
 * Télécharge un preset (ex : Digitalone1, ou autre)
 * Dans EasyEffects : **Préréglages → Importer un préréglage depuis le stockage local**
 * Une fois importé : **Load**
 
-### Emplacement des presets (important)
+### Emplacement des presets
 
 **Version native :**
 
@@ -75,10 +84,10 @@ Celui de Digital1 est assez passe-partout : https://github.com/Digitalone1/EasyE
 
 ---
 
-## 4) Créer un profil “Laptop Speakers” (haut-parleurs du PC)
+## 4) Créer un profil “haut-parleurs”
 
 Dans **Préréglages**, clique sur **+** et crée un nouveau preset :
-Par exemple : `Laptop-Speakers`
+Par exemple : `haut-parleurs`
 
 ### Chaîne d’effets recommandée (ordre très important)
 
@@ -97,10 +106,12 @@ Pour haut-parleurs de laptop, une base fiable :
 
 ---
 
-## 5) Profil “Headphones” (casques) + Flux Croisé (Crossfeed)
+## 5) Profil “Casques” 
 
 Crée un second preset :
 ✅ Nom conseillé : `Headphones`
+
+Comme le conseille digital1 on ajoute flux croisé à la fin pour les casques. Le crossfeed fait passer un petit peu de gauche vers droite (et inversement), avec un filtrage/délai, pour imiter l’écoute sur enceintes (où chaque oreille entend les deux enceintes). Ça rend le son plus naturel.
 
 ### Chaîne recommandée pour casque
 
