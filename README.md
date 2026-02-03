@@ -55,19 +55,6 @@ Le plus simple : partir d’un preset existant puis ajuster.
 
 Celui de Digital1 est assez passe-partout : https://github.com/Digitalone1/EasyEffects-Presets
 
-Sur Arch facile, il est sur le AUR on peut l'installer avec yay ou paru.
-
-```bash
-paru -S easyeffects-digitalone1-presets-git
-```
-
-Attention à bien être sur sortie et à actualiser après l'installation de easyeffects-digitalone1-presets-git, les presets devraient apparaître.
-
-<img width="2101" height="1227" alt="image" src="https://github.com/user-attachments/assets/29a646a3-7530-4d93-80b0-781b082cea77" />
-
-
-Pour les autres distros : 
-
 Paquet natif :
 ```bash
 cd ~/Téléchargements
@@ -85,7 +72,10 @@ mkdir -p ~/.local/share/easyeffects/output
 cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.var/app/com.github.wwmm.easyeffects/output/
 ```
 
-Et les presets devraient apparaitre dans local donc pas dans communauté.
+Et les presets devraient apparaitre dans local vous pouvez le renomer Haut-Parleurs.
+
+<img width="1224" height="881" alt="image" src="https://github.com/user-attachments/assets/6b2d2387-7f8c-4d89-a777-acc67c7238fb" />
+
 
 ### 3.1 Importer un preset local
 
