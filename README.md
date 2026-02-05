@@ -103,7 +103,7 @@ Pour haut-parleurs de pc portable, une base fiable :
 1. **Égaliseur** (EQ)
 2. **Compresseur** (ou Loudness/Maximizer selon ton goût)
 3. **Convolver** *(optionnel, voir section 6)*
-4. **Limiteur** ✅ **TOUJOURS EN DERNIER** (crucial contre la distorsion)
+4. **Limiteur** **EN DERNIER** (crucial contre la distorsion)
 
 > Pourquoi cet ordre ?
 
@@ -116,7 +116,6 @@ Pour haut-parleurs de pc portable, une base fiable :
 ## 5) Profil “Casques” 
 
 Crée un second preset :
-✅ Nom conseillé : `casque`
 
 Comme le conseille digital1 on ajoute flux croisé à la fin pour les casques. Le crossfeed fait passer un petit peu de gauche vers droite (et inversement), avec un filtrage/délai, pour imiter l’écoute sur enceintes (où chaque oreille entend les deux enceintes). Ça rend le son plus naturel.
 
@@ -124,11 +123,10 @@ Comme le conseille digital1 on ajoute flux croisé à la fin pour les casques. L
 
 1. Égaliseur
 2. Compresseur / Loudness (léger)
-3. Limiteur ✅ (toujours dernier “niveau”)
+3. Limiteur 
 4. **Flux Croisé (Crossfeed)** **tout à la fin**
 
-### Réglages de départ Crossfeed (safe)
-
+### Réglages de départ Crossfeed
 * Coupure : **700 Hz**
 * Flux : **4.5 dB**
 
@@ -145,7 +143,7 @@ Le **Convolver** peut transformer les haut-parleurs si tu as une **impulse respo
 
 ### 6.1 Où le placer ?
 
-✅ Place le **Convolver AVANT le Limiteur**.
+Place le **Convolver AVANT le Limiteur**.
 
 **Convolver → Limiteur** est obligatoire, parce que le Convolver peut booster énormément le signal.
 
@@ -167,7 +165,7 @@ Donc :
 
 ### 6.3 Prévenir l’écrêtage (clipping)
 
-✅ Après le Convolver : **Limiteur**
+Après le Convolver : **Limiteur**
 Réglage conseillé :
 
 * Ceiling / Output : **-1.0 dB**
