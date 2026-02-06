@@ -141,6 +141,9 @@ Ajustement :
 
 Le **Convolver** peut transformer les haut-parleurs si tu as une **impulse response (IR) adaptée**.
 
+Vous pouvez tester ceux là qui sont assez passe-partout : https://stuff.kurz.pw/arch/P14s_G4/Speakers/
+
+
 ### 6.1 Où le placer ?
 
 Place le **Convolver AVANT le Limiteur**.
@@ -150,6 +153,13 @@ Place le **Convolver AVANT le Limiteur**.
 ### 6.2 Quel fichier charger ?
 
 Le Convolver charge une **IR au format .wav**.
+
+<img width="1703" height="1306" alt="image" src="https://github.com/user-attachments/assets/193f8242-b606-4991-ae6a-0258db7cd866" />
+
+<img width="686" height="138" alt="image" src="https://github.com/user-attachments/assets/ba31fd7f-af15-4bd1-a43e-a9de254aa9fa" />
+
+<img width="1528" height="1143" alt="image" src="https://github.com/user-attachments/assets/421704e5-070c-4142-90b7-af045adfe08c" />
+
 
 Le mieux : une IR spécifique à ton modèle (quand ça existe).
 Quelques ressources (exemples donnés par CachyOS) :
