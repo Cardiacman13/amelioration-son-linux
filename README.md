@@ -56,15 +56,6 @@ mkdir -p ~/.local/share/easyeffects/output
 cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.local/share/easyeffects/output/
 ```
 
-Flatpak :
-
-```bash
-cd ~/Téléchargements
-git clone https://github.com/Digitalone1/EasyEffects-Presets.git
-mkdir -p ~/.local/share/easyeffects/output
-cp -v EasyEffects-Presets/LoudnessEqualizer.json ~/.var/app/com.github.wwmm.easyeffects/output/
-```
-
 Et les presets devraient apparaitre dans local vous pouvez le renomer Haut-Parleurs.
 
 <img width="1224" height="881" alt="image" src="https://github.com/user-attachments/assets/6b2d2387-7f8c-4d89-a777-acc67c7238fb" />
@@ -83,11 +74,6 @@ Et les presets devraient apparaitre dans local vous pouvez le renomer Haut-Parle
 
 * Sortie : `~/.local/share/easyeffects/output`
 * Entrée : `~/.local/share/easyeffects/input`
-
-**Version Flatpak :**
-
-* Sortie : `~/.var/app/com.github.wwmm.easyeffects/data/easyeffects/output`
-* Entrée : `~/.var/app/com.github.wwmm.easyeffects/data/easyeffects/input`
 
 ---
 
