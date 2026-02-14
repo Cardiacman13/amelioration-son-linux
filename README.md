@@ -125,10 +125,11 @@ Ajustement :
 
 ## 6) Bonus : Convolver (effet “Dolby Atmos laptop” / amélioration des haut-parleurs )
 
-Le **Convolver** peut transformer les haut-parleurs si tu as une **impulse response (IR) adaptée**.
+Le **Convolver** peut énormément améliorer le son des haut-parleurs si tu as une **impulse response (IR) adaptée**. C'est  surtout pour les pc portables compatibles sur le reste ça sonnera robotique.
 
 Vous pouvez tester ceux là qui sont assez passe-partout : https://stuff.kurz.pw/arch/P14s_G4/Speakers/
 
+Mais essayez de trouver un conçu pour votre pc portable.
 
 ### 6.1 Où le placer ?
 
