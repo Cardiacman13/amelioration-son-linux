@@ -1,5 +1,17 @@
 # Certains d’entre vous l’ont remarqué, c’est particulièrement flagrant sur les PC portables, **le son sous Linux est plus faible et plus plat** que sous Windows.
 
+> ⚠️ **WARNING — Risque pour tes haut-parleurs / ton audition**
+> Ce tuto **modifie la chaîne audio** (EQ, compression, convolver, gain, etc.). Si tu pousses les réglages **n’importe comment**, tu peux **faire saturer (clipping)**, créer de la **distorsion**, et **endommager tes haut-parleurs** (surtout ceux de PC portable, très fragiles) — voire te faire mal aux oreilles.
+>
+> ✅ Règles de base :
+>
+> * Monte le volume **progressivement** et teste à faible niveau d’abord.
+> * Si tu entends **craquements / grésillements / distorsion** → **stop**, baisse le gain / les basses.
+> * **Limiteur OBLIGATOIRE en dernier** (et idéalement ceiling à **-1 dB**).
+> * Le **Convolver peut booster énormément** : ne l’active jamais sans limiteur derrière.
+>
+> Tu suis ce tuto **à tes risques** : je ne peux pas garantir un résultat sûr pour tous les modèles de PC / enceintes.
+
 Vidéo de démonstration : [Vanilla Linux sound vs Preset by digitalone1](https://youtu.be/otikXMm0ftQ)
 Je précise sur la vidéo on entend déjà bien la différence mais appliqué en dur le son est encore largement meilleur.
 
