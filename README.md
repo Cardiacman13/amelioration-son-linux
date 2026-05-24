@@ -248,9 +248,9 @@ systemctl --user restart wireplumber
 
 Avec :
 
-* un preset **Laptop-Speakers** bien chaîné
-* un preset **Headphones** avec Flux Croisé
+* un preset **Laptop-Speakers** bien chaîné avec le convolver
+* un preset **Headphones** avec Flux Croisé mais SANS le convolver
 * auto-chargement par périphérique
 * mitigation WirePlumber pour Bluetooth
 
-…tu retrouves un son **plus fort**, plus “plein”, et plus agréable, proche de ce que Windows donne via ses DSP.
+…tu retrouves un son **plus fort**, plus “plein”,spacialisé, et plus agréable, proche de ce que Windows donne via ses DSP.
